@@ -1,2 +1,2 @@
-# Bold-financial-model
+# bold-financial-model
 Group CFO Financial Model
